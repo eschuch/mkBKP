@@ -1,0 +1,9 @@
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\sshHandler\sshHandler\bin\Debug\sshHandler.dll.config
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\sshHandler\sshHandler\bin\Debug\sshHandler.dll
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\sshHandler\sshHandler\bin\Debug\sshHandler.pdb
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\sshHandler\sshHandler\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\sshHandler\sshHandler\obj\Debug\sshHandler.dll
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\sshHandler\sshHandler\obj\Debug\sshHandler.pdb
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\sshHandler\sshHandler\bin\Debug\generateBackup.txt
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\sshHandler\sshHandler\bin\Debug\plink.exe
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\sshHandler\sshHandler\bin\Debug\pscp.exe

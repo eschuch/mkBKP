@@ -1,0 +1,8 @@
+C:\Documents and Settings\erico\Configurações locais\Dados de aplicativos\Temporary Projects\WS M\bin\Debug\WS M.exe
+C:\Documents and Settings\erico\Configurações locais\Dados de aplicativos\Temporary Projects\WS M\bin\Debug\WS M.pdb
+C:\Documents and Settings\erico\Configurações locais\Dados de aplicativos\Temporary Projects\WS M\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\erico\Configurações locais\Dados de aplicativos\Temporary Projects\WS M\obj\Debug\WS_M.Form1.resources
+C:\Documents and Settings\erico\Configurações locais\Dados de aplicativos\Temporary Projects\WS M\obj\Debug\WS_M.Properties.Resources.resources
+C:\Documents and Settings\erico\Configurações locais\Dados de aplicativos\Temporary Projects\WS M\obj\Debug\WS M.csproj.GenerateResource.Cache
+C:\Documents and Settings\erico\Configurações locais\Dados de aplicativos\Temporary Projects\WS M\obj\Debug\WS M.exe
+C:\Documents and Settings\erico\Configurações locais\Dados de aplicativos\Temporary Projects\WS M\obj\Debug\WS M.pdb
