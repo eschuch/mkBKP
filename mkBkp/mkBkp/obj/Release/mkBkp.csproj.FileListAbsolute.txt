@@ -1,0 +1,14 @@
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\bin\Release\plink.exe
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\bin\Release\pscp.exe
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\bin\Release\sshHandler.dll
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\bin\Release\mkBkp.exe.config
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\bin\Release\mkBkp.exe
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\bin\Release\mkBkp.pdb
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\bin\Release\sshHandler.pdb
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\obj\Release\mkBkp.mkForms.resources
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\obj\Release\mkBkp.Properties.Resources.resources
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\obj\Release\mkBkp.csproj.GenerateResource.Cache
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\obj\Release\mkBkp.exe
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\obj\Release\mkBkp.pdb
+C:\Documents and Settings\erico\Meus documentos\Google Drive\Free Projects\mk BKP\mkBkp\mkBkp\bin\Release\generateBackup.txt

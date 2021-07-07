@@ -1,0 +1,3 @@
+export file=exportBkp
+system backup save name=backupBkp
+quit
